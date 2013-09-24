@@ -3,6 +3,6 @@
 
 
 "Tilt the mascot by 10 degrees, for extra whimsy.  
-Remember: Whimsiness grows exponentially with the degrees of tilt."
+Remember: Whimsiness grows exponentially with the degrees of tilt."  
 Mathias Meyer @roidrage, on commit 46adf1164d3fa52b0d3827b4e95e80faad0de882 of `travis-web`
 
