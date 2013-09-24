@@ -1,6 +1,6 @@
 > "that gem is like... the biggest C hax I've ever done in my entire life"  
 
-Tony Arcieri @ tarcieri, on his gem `openssl-nonblock`
+Tony Arcieri @tarcieri, on his gem `openssl-nonblock`
 
 > "Tilt the mascot by 10 degrees, for extra whimsy.  
 > Remember: Whimsiness grows exponentially with the degrees of tilt."  
