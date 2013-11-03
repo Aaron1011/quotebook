@@ -11,3 +11,10 @@ Mathias Meyer @roidrage, on commit 46adf1164d3fa52b0d3827b4e95e80faad0de882 of `
 
 The Buglets Team, on their Javacript developer ad
 
+> "Oh, You Wanted "Awesome" Edition"
+
+Jeff Atwood, on his blog post on [Coding Horror](http://www.codinghorror.com/blog/2009/07/oh-you-wanted-awesome-edition.html)
+
+> "Did you feel that? A great disturbance in the Force, as if 17 billion bytes simultaneously cried out in terror and were suddenly silenced. It's so profoundly sad."
+
+Jeff Atwodd, on his blog post on [Coding Horror](http://www.codinghorror.com/blog/2009/07/oh-you-wanted-awesome-edition.html)
