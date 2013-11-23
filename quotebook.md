@@ -18,3 +18,7 @@ Jeff Atwood, on his blog post on [Coding Horror](http://www.codinghorror.com/blo
 > "Did you feel that? A great disturbance in the Force, as if 17 billion bytes simultaneously cried out in terror and were suddenly silenced. It's so profoundly sad."
 
 Jeff Atwodd, on his blog post on [Coding Horror](http://www.codinghorror.com/blog/2009/07/oh-you-wanted-awesome-edition.html)
+
+> "Colors are hard."
+
+Henrik Hodne, on issue [1667](https://github.com/travis-ci/travis-ci/issues/1667) of Travis CI.
