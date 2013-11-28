@@ -19,6 +19,10 @@ Jeff Atwood, on his blog post on [Coding Horror](http://www.codinghorror.com/blo
 
 Jeff Atwodd, on his blog post on [Coding Horror](http://www.codinghorror.com/blog/2009/07/oh-you-wanted-awesome-edition.html)
 
+> "Open source software only comes in one edition: awesome."
+
+Jeff Atwodd, on his blog post on [Coding Horror](http://www.codinghorror.com/blog/2009/07/oh-you-wanted-awesome-edition.html)
+
 > "Colors are hard."
 
 Henrik Hodne, on issue [1667](https://github.com/travis-ci/travis-ci/issues/1667) of Travis CI.
