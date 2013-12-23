@@ -26,3 +26,7 @@ Jeff Atwodd, on his blog post on [Coding Horror](http://www.codinghorror.com/blo
 > "Colors are hard."
 
 Henrik Hodne, on issue [1667](https://github.com/travis-ci/travis-ci/issues/1667) of Travis CI.
+
+> "I work almost literally across the street from them [RSA] and I don't want to get beat up by roving gangs of crytographers at the local Chipotle."
+
+0xabad1dea (Melissa), on her Gist "Sorry, RSA, I'm just not buying it"
