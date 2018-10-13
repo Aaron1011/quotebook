@@ -34,3 +34,7 @@ Henrik Hodne, on issue [1667](https://github.com/travis-ci/travis-ci/issues/1667
 > "While the mapped stack area expands to meet demand, it does not shrink back when the stack gets smaller. Like the federal budget, it only expands."
 
 Gustavo Duarte, on his program [Anatomy of a Program in Memory](http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory).
+
+> Well the good news is that this fixed 10 crates. The bad news is that it regressed 23000 crates.
+
+Alex Chrichton, on [a Github comment](https://github.com/rust-lang/rust/pull/54939#issuecomment-429389501)
