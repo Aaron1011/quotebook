@@ -29,7 +29,7 @@ Henrik Hodne, on issue [1667](https://github.com/travis-ci/travis-ci/issues/1667
 
 > "I work almost literally across the street from them [RSA] and I don't want to get beat up by roving gangs of crytographers at the local Chipotle."
 
-0xabad1dea (Melissa), on her Gist "Sorry, RSA, I'm just not buying it"
+0xabad1dea (Melissa), on [her Gist "Sorry, RSA, I'm just not buying it"](https://gist.github.com/0xabad1dea/8101758)
 
 > "While the mapped stack area expands to meet demand, it does not shrink back when the stack gets smaller. Like the federal budget, it only expands."
 
