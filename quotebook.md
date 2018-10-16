@@ -38,3 +38,7 @@ Gustavo Duarte, on his program [Anatomy of a Program in Memory](http://duartes.o
 > Well the good news is that this fixed 10 crates. The bad news is that it regressed 23000 crates.
 
 Alex Chrichton, on [a Github comment](https://github.com/rust-lang/rust/pull/54939#issuecomment-429389501)
+
+> Is the idea that people would try harder to not write bugs if the diagnostic experience is worse?
+
+sfackler, on [a Rust Internals forum post](https://internals.rust-lang.org/t/rust-backtrace-in-production-use/5609/5)
