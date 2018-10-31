@@ -42,3 +42,7 @@ Alex Chrichton, on [a Github comment](https://github.com/rust-lang/rust/pull/549
 > Is the idea that people would try harder to not write bugs if the diagnostic experience is worse?
 
 sfackler, on [a Rust Internals forum post](https://internals.rust-lang.org/t/rust-backtrace-in-production-use/5609/5)
+
+> I had a main() that was filled with ~5400 let x = 0;s, one per line.
+
+ matthiaskrgr, on [this Github issue](https://github.com/rust-lang/rust/issues/55509)
